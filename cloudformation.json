@@ -122,13 +122,13 @@
 						]]}
 				},
 				"C:\\OpenVPN.exe" : {
-					"source" : "https://swupdate.openvpn.org/community/releases/openvpn-install-2.3.10-I602-x86_64.exe"
+					"source" : "https://swupdate.openvpn.org/community/releases/openvpn-install-2.4.7-I602-x86_64.exe"
 				},
 				"C:\\Steam.exe" : {
 					"source" : "https://steamcdn-a.akamaihd.net/client/installer/SteamSetup.exe"
 				},
 				"C:\\RazerZone.exe" : {
-					"source" : "http://dl.razerzone.com/drivers/Surround/win/RazerSurroundInstaller_v2.0.29.2.exe"
+					"source" : "http://dl.razerzone.com/drivers/Surround/win/RazerSurroundInstaller_v2.0.29.20.exe"
 				}
 			  },
 			  "commands" : {
